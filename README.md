@@ -103,8 +103,6 @@ The lab consists of:
 * A TheHive deployment and API credentials.
 * An email integration supported by the selected Shuffle workflow.
 
-Resource requirements depend on the number of services running simultaneously. The original lab documentation recommends at least 8 GB of RAM and 50 GB of free disk space on the host.
-
 ## Implementation
 
 ### 1. Endpoint Telemetry with Sysmon
