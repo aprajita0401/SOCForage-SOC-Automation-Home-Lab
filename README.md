@@ -252,7 +252,10 @@ A successful test at one stage does not guarantee that every downstream integrat
 
 ## Documentation
 
-See [`documentation/`](docs/) for architecture, setup notes, configuration examples, and validation evidence.
+See [`Documentation/`](Documentation/) for architecture, setup notes, configuration examples, and validation evidence.
+
+* [Project documentation and installation guide](Documentation/SOCForage_SOC_AUtomation_Home_Lab.pdf)
+* [Screenshots and configuration evidence](Screenshots/)
 
 
 ## Security Disclaimer
@@ -262,11 +265,6 @@ This project is intended for educational and defensive cybersecurity purposes in
 Mimikatz was used as a test program to generate suspicious activity. Do not run credential-related tools on systems or accounts without explicit authorization.
 
 Do not expose administrative interfaces or API keys publicly. Avoid disabling endpoint security on everyday or production systems. Any temporary changes made for lab testing should be reversed after testing.
-
-## Documentation
-
-* [Project documentation and installation guide](docs/SOC Automation Home Lab.pdf)
-* [Screenshots and configuration evidence](screenshots/)
 
 ## Author
 
