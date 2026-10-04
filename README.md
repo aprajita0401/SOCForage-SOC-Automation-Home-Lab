@@ -1,4 +1,4 @@
-# SOC Automation Home Lab | Wazuh, Shuffle, VirusTotal & TheHive
+# SOCForage - SOC Automation Home Lab | Wazuh, Shuffle, VirusTotal & TheHive
 
 A hands-on Security Operations Center (SOC) home lab demonstrating endpoint monitoring, security event detection, threat intelligence enrichment, incident management, and automated email notifications.
 
